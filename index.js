@@ -5,8 +5,8 @@ class BoardMember {
     this.training = training
   }
   
-  BoardMember.prototype.veto() {
-    
+  BoardMember.prototype.veto = () => {
+    return 
   }
 
 }
