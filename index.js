@@ -5,6 +5,8 @@ class BoardMember {
     this.training = training
   }
   
-  veto.prototype
+  BoardMember.prototype.veto() {
+    
+  }
 
 }
