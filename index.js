@@ -8,15 +8,15 @@ function BoardMember(name, homeState, training) {
   }
   
   BoardMember.prototype.approve = () => {
-    return "You can do it!"
+    return "You can do that!"
   }
   
   BoardMember.prototype.doCharity = () => {
-    return "I like to help people"
+    return "I like to help people."
   }
   
   BoardMember.prototype.releasePressStatement = () => {
-    return "You will see great things from Scruber"
+    return "You will see great things from Scuber"
   }
   
   BoardMember.prototype.sayHi = () => {
